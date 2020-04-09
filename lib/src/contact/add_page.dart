@@ -129,7 +129,7 @@ class _AddPageState extends State<AddPage> {
           height: 120.0,
           child: CircleAvatar(
             child: Icon(
-              Icons.camera_alt,
+              Icons.person,size: 60,
             ),
           ),
         ),
